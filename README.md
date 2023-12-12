@@ -27,7 +27,7 @@ This repository contains the source code for the SampleITCWebsite project, which
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SampleITCWebsite.git
+   https://github.com/abubaker909/Animal_Rescue_Website-Frontend-.git
    ```
 
 2. Open the HTML files in a web browser or host them using a web server.
